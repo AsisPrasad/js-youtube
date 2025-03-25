@@ -28,5 +28,16 @@ console.log(typeof stringNumber);
 
 //node 01_basics/03_conversionOperation.js//
 
+// **********Operations***********//
+
+let value = 3
+let negvalue = -value
+console.log(negvalue);
+
+let str1 = "Hello"
+let str2 = " JS"
+let str3 = str1 + str2
+console.log(str3);
+
 
 
